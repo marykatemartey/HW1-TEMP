@@ -6,7 +6,7 @@ This is the repo I made for the GitHub part of the assignment.
 
 ### Q2 - Pull Command
 
-Pull gets the changes from the GitHub repo and puts them on my computer.
+Pull sends changes from the remote repository on GitHub to the local repository on my computer. It brings my local copy up to date with the changes on GitHub.
 
 ### Q3 - Local Commits
 
@@ -16,19 +16,23 @@ If I made a change and committed it but don't see it on GitHub, I probably forgo
 
 ### Q1 - Bulleted List
 
-- Apples
-- Bananas
-- Oranges
+- Movies
+- Music
+- Photography
 
-A bulleted list uses bullet points instead of numbers. A numbered list uses numbers to show each item.
+A bulleted list uses bullets and does not have a specific order. A numbered list uses numbers and is useful when the order of the items matters.
 
 ### Q2 - Markdown Paragraph
 
-This is *italic*, this is **bold**, this is ***bold and italic***, this is `code`, and this is a [link](https://github.com/).
+I’m using *Markdown* for this homework, and it’s pretty simple once you get the hang of it. You can make things **bold**, ***bold and italic***, add `code`, and put in a [link to GitHub](https://github.com/). This shows some of the different formatting you can use in Markdown.
 
 ### Q3 - Animal Image
 
-Not done yet.
+Here is the animal image I uploaded to my repository.
+
+<img src="Persian Cat.jpg" width="400">
+
+I uploaded the image directly to the repository and then used the image file in my Markdown report.
 
 ## Tableau
 
